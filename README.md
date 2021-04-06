@@ -20,9 +20,8 @@
 
 ## 其他的語言
 
-- [Measure Outcomes](https://github.com/ScrumFacilitators/measuringoutcome-en/releases/latest) (English) / 英文 (original)
-- [Uitkomsten Meten](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) (Nederlands) / 荷(蘭)文
-- [Medición del Resultado](https://github.com/ScrumFacilitators/measuringoutcome-es/releases/latest) (Español) / 西班牙文
+- Measure Outcomes [Mural](https://app.mural.co/template/f9f3d527-cb51-4f55-b034-1db0d02882b9/c1a4bd65-8c16-45a8-909f-ee99f3a2e1a6), [Miro](https://github.com/ScrumFacilitators/Scrum-Accountabilities) (English) / 英文 (original)
+
 
 ## 授權 (License)
 
